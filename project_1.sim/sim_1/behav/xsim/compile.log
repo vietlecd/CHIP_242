@@ -1,0 +1,11 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Subject/Chip_Chip/BTL_241/code and mo phong/Add_Mux.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Address_Mux
+INFO: [VRFC 10-311] analyzing module PC
+INFO: [VRFC 10-311] analyzing module Memory
+INFO: [VRFC 10-311] analyzing module IR
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-311] analyzing module ACC
+INFO: [VRFC 10-311] analyzing module Controller
+INFO: [VRFC 10-311] analyzing module RISC_CPU
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Subject/Chip_Chip/BTL_241/code and mo phong/Add_Mux_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RISC_CPU_TB
