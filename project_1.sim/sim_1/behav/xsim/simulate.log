@@ -1,0 +1,8 @@
+Vivado Simulator 2018.2
+Time resolution is 1 ps
+WARNING: File init.mem referenced on D:/Subject/Chip_Chip/BTL_241/code and mo phong/Add_Mux_tb.v at line 386 cannot be opened for reading. Please ensure that this file is available in the current working directory.
+Time: 0 | Reset: 1 | PC: xxxxx | inc_pc: x | Instruction: xxxxxxxx | Opcode: xxx | inA: xxxxxxxx | inB: xxxxxxxx | alu_out: xxxxxxxx | is_zero: x | Accumulator: xxxxxxxx | Data Out: xxxxxxxx | Halt: x
+Time: 5000 | Reset: 1 | PC: 00000 | inc_pc: 0 | Instruction: xxxxxxxx | Opcode: 000 | inA: 00000000 | inB: xxxxxxxx | alu_out: 00000000 | is_zero: 1 | Accumulator: 00000000 | Data Out: xxxxxxxx | Halt: 0
+Time: 10000 | Reset: 0 | PC: 00000 | inc_pc: 0 | Instruction: xxxxxxxx | Opcode: 000 | inA: 00000000 | inB: xxxxxxxx | alu_out: 00000000 | is_zero: 1 | Accumulator: 00000000 | Data Out: xxxxxxxx | Halt: 0
+stop program
+$finish called at time : 45 ns : File "D:/Subject/Chip_Chip/BTL_241/code and mo phong/Add_Mux.v" Line 103
